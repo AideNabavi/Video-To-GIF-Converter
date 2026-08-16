@@ -13,7 +13,7 @@ This project is built with Python and provides a user-friendly graphical interfa
 
 # 🖼️ Application Preview
 
-![Video To GIF Converter](assets/screenshot.png)
+![Video To GIF Converter](asset/image.png)
 
 Place your application screenshot here:
 
